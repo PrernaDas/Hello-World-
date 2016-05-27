@@ -1,3 +1,3 @@
 # Hello-World-
 My first repository on GitHub.
-My first steps to documenting my work :)
+My first steps at documenting my work :)
